@@ -1,0 +1,81 @@
+body {
+  background-color: rgb(1, 150, 300);
+  margin: 0 0 0 0;
+  padding: 50px;
+}
+#title{
+  margin:;
+}
+h1 {
+  font-family: "Great Vibes", cursive;
+  font-size: 50px;
+  margin: 10 auto 10px;
+}
+h2 {
+  font-family: "Merriweather", serif;
+  font-size: 30px;
+  margin: 0 auto 10px auto;
+  width: 80%;
+}
+p {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 30px;
+}
+ul {
+  margin: auto;
+  max-width: 500px;
+}
+li {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 25px;
+  margin: 20px 0;
+}
+
+/*** container ***/
+#main {
+  background-color: rgb(1, 150, 300);
+  padding: 0px;
+  width: 100%;
+}
+#img-div {
+  border-radius: 0px;
+  margin: 0px auto 0px auto;
+  width: 50%;
+}
+figure {
+  margin: auto;
+  padding: 0px;
+  width: 100%;
+}
+#image {
+  display: block;
+  margin: 100px auto 100px auto;
+  max-width: 100%;
+  position:absolute;
+}
+figcaption {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 0px;
+  margin-bottom: 0px;
+}
+
+/*** timeline & link ***/
+#tribute-info {
+  margin-bottom: 0px;
+}
+.link-text {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 0px;
+  margin: 0 auto 0px auto;
+  text-align: center;
+  width: 0%;
+}
+#tribute-link {
+  text-decoration: none;
+}
+
+/* Mobile devices */
+/* applies to all widths 400px and less */
+@media (max-width: 400px) {
+
+}
